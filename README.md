@@ -1,4 +1,4 @@
-# Cultural-Heritage-Models
+# Cultural Heritage Models
 A collection of cultural heritage models designed for Benchmarking MVS Algorithms.
 
 ![Model Visualization](ModelOverview.png "Logo Title Text 1")
